@@ -14,7 +14,7 @@ If you wanna see the full project without knowing how the node works you can see
 This schedule is based on the [Node.js Crash Course by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 - [ ] Day 1
-    - [ ] The global Object
-    - [ ] Modules and Require
+    - [x] The global Object
+    - [x] Modules and Require
     - [ ] Node and the file system(Creating, Reading, Deleting Files etc)
     - [ ] Streams & Buffers
